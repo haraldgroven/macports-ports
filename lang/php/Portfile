@@ -1140,6 +1140,8 @@ For mysql5, use ${prefix}/var/run/mysql5/mysqld.sock
 For mysql51, use ${prefix}/var/run/mysql51/mysqld.sock
 For mysql55, use ${prefix}/var/run/mysql55/mysqld.sock
 For mysql56, use ${prefix}/var/run/mysql56/mysqld.sock
+For mysql57, use ${prefix}/var/run/mysql57/mysqld.sock
+For mysql8, use ${prefix}/var/run/mysql8/mysqld.sock
 For mariadb, use ${prefix}/var/run/mariadb/mysqld.sock
 For percona, use ${prefix}/var/run/percona/mysqld.sock
 "
